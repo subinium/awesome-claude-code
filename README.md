@@ -48,7 +48,6 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | ![](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&logo=github) | CLI tool with 600+ agents, 200+ commands, 55+ MCPs |
 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | ![](https://img.shields.io/github/stars/Yeachan-Heo/oh-my-claudecode?style=flat-square&logo=github) | Multi-agent orchestration framework (5 modes, 31+ skills, 32 agents) |
 | [steipete/agent-rules](https://github.com/steipete/agent-rules) | ![](https://img.shields.io/github/stars/steipete/agent-rules?style=flat-square&logo=github) | Agent rules for Claude Code and Cursor |
-| [rohitg00/pro-workflow](https://github.com/rohitg00/pro-workflow) | ![](https://img.shields.io/github/stars/rohitg00/pro-workflow?style=flat-square&logo=github) | Battle-tested Claude Code workflows (memory, worktrees, wrap-up) |
 | [diet103/claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | ![](https://img.shields.io/github/stars/diet103/claude-code-infrastructure-showcase?style=flat-square&logo=github) | Infrastructure examples (skills, hooks, agents) |
 | [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) | ![](https://img.shields.io/github/stars/ChrisWiles/claude-code-showcase?style=flat-square&logo=github) | Project configuration showcase with hooks, skills, agents |
 
@@ -58,7 +57,6 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 |:-----------|:-----:|:------------|
 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | ![](https://img.shields.io/github/stars/vercel-labs/agent-skills?style=flat-square&logo=github) | Vercel agent skills (React best practices, web design, deploy) |
 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | ![](https://img.shields.io/github/stars/vercel-labs/skills?style=flat-square&logo=github) | CLI for the open agent skills ecosystem (`npx skills`) |
-| [vercel-labs/next-skills](https://github.com/vercel-labs/next-skills) | ![](https://img.shields.io/github/stars/vercel-labs/next-skills?style=flat-square&logo=github) | Agent skills for common Next.js workflows |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | ![](https://img.shields.io/github/stars/vercel-labs/agent-browser?style=flat-square&logo=github) | Headless browser automation CLI for AI agents (Rust) |
 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&logo=github) | Claude Skills for Claude.ai, Code, and API workflows (78+ SaaS) |
 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | ![](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square&logo=github) | 200+ agent skills from official dev teams & community |
@@ -129,7 +127,6 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [modelcontextprotocol/inspector](https://github.com/modelcontextprotocol/inspector) | ![](https://img.shields.io/github/stars/modelcontextprotocol/inspector?style=flat-square&logo=github) | Visual testing tool for MCP servers |
 | [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) | ![](https://img.shields.io/github/stars/modelcontextprotocol/registry?style=flat-square&logo=github) | Community MCP server registry |
 | [jlowin/fastmcp](https://github.com/jlowin/fastmcp) | ![](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat-square&logo=github) | Pythonic MCP server/client framework |
-| [vercel/mcp-handler](https://github.com/vercel/mcp-handler) | ![](https://img.shields.io/github/stars/vercel/mcp-handler?style=flat-square&logo=github) | Vercel adapter for MCP (Next.js, Nuxt support) |
 | [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | ![](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&logo=github) | MCP server interaction client tool |
 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | ![](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat-square&logo=github) | MCP Gateway & Registry |
 | [metorial/metorial](https://github.com/metorial/metorial) | ![](https://img.shields.io/github/stars/metorial/metorial?style=flat-square&logo=github) | Connect any AI to 600+ integrations via MCP |
@@ -143,7 +140,6 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [upstash/context7](https://github.com/upstash/context7) | ![](https://img.shields.io/github/stars/upstash/context7?style=flat-square&logo=github) | Up-to-date code documentation for LLMs |
 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | ![](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square&logo=github) | Browser automation (Microsoft) |
 | [oraios/serena](https://github.com/oraios/serena) | ![](https://img.shields.io/github/stars/oraios/serena?style=flat-square&logo=github) | Semantic code search & editing MCP |
-| [vercel/next-devtools-mcp](https://github.com/vercel/next-devtools-mcp) | ![](https://img.shields.io/github/stars/vercel/next-devtools-mcp?style=flat-square&logo=github) | Next.js devtools MCP (runtime diagnostics, codemods) |
 | [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | ![](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat-square&logo=github) | Figma layout information MCP |
 | [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) | ![](https://img.shields.io/github/stars/21st-dev/magic-mcp?style=flat-square&logo=github) | v0-style frontend generation MCP |
 | [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) | ![](https://img.shields.io/github/stars/Jpisnice/shadcn-ui-mcp-server?style=flat-square&logo=github) | shadcn/ui components MCP |
