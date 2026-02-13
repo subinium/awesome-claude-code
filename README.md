@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Curated list of tools, skills, plugins, and MCP servers for [Claude Code](https://github.com/anthropics/claude-code) — Anthropic's agentic coding tool that lives in your terminal.
+Curated list of tools, skills, plugins, and MCP servers for agentic coding tools — [Claude Code](https://github.com/anthropics/claude-code), [Codex](https://github.com/openai/codex), [Gemini CLI](https://github.com/google-gemini/gemini-cli), [Cursor](https://www.cursor.com/), and more.
 
 Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 
@@ -56,6 +56,24 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) | ![](https://img.shields.io/github/stars/ChrisWiles/claude-code-showcase?style=flat-square&logo=github) | Full project config example with skill auto-activation, CI workflows, and JIRA integration |
 | [OneRedOak/claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) | ![](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows?style=flat-square&logo=github) | Battle-tested workflows from an AI-native startup |
 | [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) | ![](https://img.shields.io/github/stars/centminmod/my-claude-code-setup?style=flat-square&logo=github) | CLAUDE.md config template with memory bank system |
+| [github/spec-kit](https://github.com/github/spec-kit) | ![](https://img.shields.io/github/stars/github/spec-kit?style=flat-square&logo=github) | GitHub's official toolkit for Spec-Driven Development |
+| [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&logo=github) | Spec-driven development for AI coding assistants |
+| [agentsmd/agents.md](https://github.com/agentsmd/agents.md) | ![](https://img.shields.io/github/stars/agentsmd/agents.md?style=flat-square&logo=github) | AGENTS.md — simple, open format for guiding coding agents |
+| [MrLesk/Backlog.md](https://github.com/MrLesk/Backlog.md) | ![](https://img.shields.io/github/stars/MrLesk/Backlog.md?style=flat-square&logo=github) | Human-AI agent project collaboration management in a git ecosystem |
+| [buildermethods/agent-os](https://github.com/buildermethods/agent-os) | ![](https://img.shields.io/github/stars/buildermethods/agent-os?style=flat-square&logo=github) | Inject codebase standards and write better specs for spec-driven development |
+| [Pimzino/claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) | ![](https://img.shields.io/github/stars/Pimzino/claude-code-spec-workflow?style=flat-square&logo=github) | Automated spec-driven workflows for Claude Code (requirements → design → tasks → implementation) |
+| [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) | ![](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc?style=flat-square&logo=github) | Curated list of awesome Cursor Rules .mdc files |
+| [gemini-cli-extensions/conductor](https://github.com/gemini-cli-extensions/conductor) | ![](https://img.shields.io/github/stars/gemini-cli-extensions/conductor?style=flat-square&logo=github) | Gemini CLI extension for specifying, planning, and implementing software features |
+| [gotalab/cc-sdd](https://github.com/gotalab/cc-sdd) | ![](https://img.shields.io/github/stars/gotalab/cc-sdd?style=flat-square&logo=github) | Spec-driven dev commands for Claude Code, Codex, Cursor, Gemini CLI, and more |
+| [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | ![](https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=flat-square&logo=github) | Claude Code best practices collection |
+| [intellectronica/ruler](https://github.com/intellectronica/ruler) | ![](https://img.shields.io/github/stars/intellectronica/ruler?style=flat-square&logo=github) | Apply the same rules to all coding agents |
+| [Wirasm/PRPs-agentic-eng](https://github.com/Wirasm/PRPs-agentic-eng) | ![](https://img.shields.io/github/stars/Wirasm/PRPs-agentic-eng?style=flat-square&logo=github) | Prompts and workflows for agentic engineering |
+| [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) | ![](https://img.shields.io/github/stars/peterkrueck/Claude-Code-Development-Kit?style=flat-square&logo=github) | Custom Claude Code workflow with hooks, MCP, and sub agents for context at scale |
+| [catlog22/Claude-Code-Workflow](https://github.com/catlog22/Claude-Code-Workflow) | ![](https://img.shields.io/github/stars/catlog22/Claude-Code-Workflow?style=flat-square&logo=github) | JSON-driven multi-agent dev framework with CLI orchestration (Gemini/Qwen/Codex) |
+| [CloudAI-X/claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | ![](https://img.shields.io/github/stars/CloudAI-X/claude-workflow-v2?style=flat-square&logo=github) | Universal Claude Code workflow plugin with agents, skills, hooks, and commands |
+| [feiskyer/claude-code-settings](https://github.com/feiskyer/claude-code-settings) | ![](https://img.shields.io/github/stars/feiskyer/claude-code-settings?style=flat-square&logo=github) | Claude Code settings, commands, and agents for vibe coding |
+| [gadievron/raptor](https://github.com/gadievron/raptor) | ![](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square&logo=github) | Turn Claude Code into an offensive/defensive security agent with rules and sub-agents |
+| [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) | ![](https://img.shields.io/github/stars/Dicklesworthstone/agentic_coding_flywheel_setup?style=flat-square&logo=github) | Bootstrap Ubuntu VPS into multi-agent dev environment for Claude Code, Codex, and Gemini CLI |
 
 ## Skills & Plugins
 
@@ -88,6 +106,24 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [lackeyjb/playwright-skill](https://github.com/lackeyjb/playwright-skill) | ![](https://img.shields.io/github/stars/lackeyjb/playwright-skill?style=flat-square&logo=github) | Playwright browser automation skill |
 | [blader/Claudeception](https://github.com/blader/Claudeception) | ![](https://img.shields.io/github/stars/blader/Claudeception?style=flat-square&logo=github) | Autonomous skill extraction and continuous learning |
 | [microsoft/skills](https://github.com/microsoft/skills) | ![](https://img.shields.io/github/stars/microsoft/skills?style=flat-square&logo=github) | Microsoft's agent skills and MCP servers |
+| [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) | ![](https://img.shields.io/github/stars/BehiSecc/awesome-claude-skills?style=flat-square&logo=github) | Curated list of Claude Skills |
+| [aidenybai/react-grab](https://github.com/aidenybai/react-grab) | ![](https://img.shields.io/github/stars/aidenybai/react-grab?style=flat-square&logo=github) | Select context for coding agents directly from your website |
+| [campfirein/cipher](https://github.com/campfirein/cipher) | ![](https://img.shields.io/github/stars/campfirein/cipher?style=flat-square&logo=github) | Open-source memory layer for coding agents (Cursor, Codex, Claude Code, Gemini CLI) |
+| [PleasePrompto/notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | ![](https://img.shields.io/github/stars/PleasePrompto/notebooklm-skill?style=flat-square&logo=github) | Query Google NotebookLM with source-grounded answers from Claude Code |
+| [antfu/skills](https://github.com/antfu/skills) | ![](https://img.shields.io/github/stars/antfu/skills?style=flat-square&logo=github) | Anthony Fu's curated collection of agent skills |
+| [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | ![](https://img.shields.io/github/stars/Orchestra-Research/AI-Research-SKILLs?style=flat-square&logo=github) | AI research and engineering skills for Claude Code, Codex, Gemini, and more |
+| [czlonkowski/n8n-skills](https://github.com/czlonkowski/n8n-skills) | ![](https://img.shields.io/github/stars/czlonkowski/n8n-skills?style=flat-square&logo=github) | n8n skillset for Claude Code to build flawless n8n workflows |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | ![](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square&logo=github) | Claude Code skill that researches topics across Reddit + X from the last 30 days |
+| [heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) | ![](https://img.shields.io/github/stars/heilcheng/awesome-agent-skills?style=flat-square&logo=github) | Curated skills, tools, tutorials, and capabilities for AI coding agents |
+| [supermemoryai/claude-supermemory](https://github.com/supermemoryai/claude-supermemory) | ![](https://img.shields.io/github/stars/supermemoryai/claude-supermemory?style=flat-square&logo=github) | Enable Claude Code to learn in real-time and update its knowledge |
+| [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) | ![](https://img.shields.io/github/stars/mindfold-ai/Trellis?style=flat-square&logo=github) | All-in-one AI framework and toolkit for Claude Code and Cursor |
+| [timescale/pg-aiguide](https://github.com/timescale/pg-aiguide) | ![](https://img.shields.io/github/stars/timescale/pg-aiguide?style=flat-square&logo=github) | Postgres skills and documentation for AI coding tools |
+| [snyk/agent-scan](https://github.com/snyk/agent-scan) | ![](https://img.shields.io/github/stars/snyk/agent-scan?style=flat-square&logo=github) | Security scanner for AI agents, MCP servers, and agent skills |
+| [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | ![](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-plugins?style=flat-square&logo=github) | Curated plugins extending Claude Code with commands, agents, hooks, and MCP |
+| [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) | ![](https://img.shields.io/github/stars/pchalasani/claude-code-tools?style=flat-square&logo=github) | Practical productivity tools for Claude Code, Codex, and similar CLI coding agents |
+| [AvdLee/SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill) | ![](https://img.shields.io/github/stars/AvdLee/SwiftUI-Agent-Skill?style=flat-square&logo=github) | SwiftUI best-practice guidance skill in Agent Skills format |
+| [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) | ![](https://img.shields.io/github/stars/PeonPing/peon-ping?style=flat-square&logo=github) | Warcraft III Peon voice notifications for Claude Code and Codex |
+| [kenryu42/claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) | ![](https://img.shields.io/github/stars/kenryu42/claude-code-safety-net?style=flat-square&logo=github) | Safety net plugin catching destructive git and filesystem commands |
 
 ## Agent Orchestration
 
@@ -105,6 +141,16 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) | ![](https://img.shields.io/github/stars/frankbria/ralph-claude-code?style=flat-square&logo=github) | Autonomous dev loop with intelligent exit detection, rate limiting, and circuit breaker |
 | [UfoMiao/zcf](https://github.com/UfoMiao/zcf) | ![](https://img.shields.io/github/stars/UfoMiao/zcf?style=flat-square&logo=github) | Zero-config CLI to set up Claude Code & Codex with providers, MCPs, and workflows |
 | [parcadei/Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3) | ![](https://img.shields.io/github/stars/parcadei/Continuous-Claude-v3?style=flat-square&logo=github) | Context management via hooks, ledgers, and handoffs |
+| [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) | ![](https://img.shields.io/github/stars/kodu-ai/claude-coder?style=flat-square&logo=github) | Autonomous coding agent VSCode extension leveraging Claude |
+| [vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents) | ![](https://img.shields.io/github/stars/vijaythecoder/awesome-claude-agents?style=flat-square&logo=github) | Orchestrated sub-agent dev team powered by Claude Code |
+| [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) | ![](https://img.shields.io/github/stars/moazbuilds/CodeMachine-CLI?style=flat-square&logo=github) | Orchestrate AI coding agents into repeatable, long-running workflows |
+| [cexll/myclaude](https://github.com/cexll/myclaude) | ![](https://img.shields.io/github/stars/cexll/myclaude?style=flat-square&logo=github) | Multi-agent orchestration workflow for Claude Code, Codex, Gemini, and OpenCode |
+| [mikeyobrien/ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) | ![](https://img.shields.io/github/stars/mikeyobrien/ralph-orchestrator?style=flat-square&logo=github) | Ralph Wiggum technique for autonomous AI agent orchestration |
+| [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) | ![](https://img.shields.io/github/stars/google-github-actions/run-gemini-cli?style=flat-square&logo=github) | GitHub Action invoking the Gemini CLI |
+| [Dicklesworthstone/mcp_agent_mail](https://github.com/Dicklesworthstone/mcp_agent_mail) | ![](https://img.shields.io/github/stars/Dicklesworthstone/mcp_agent_mail?style=flat-square&logo=github) | Async coordination layer for AI coding agents with identities, inboxes, and threads |
+| [superset-sh/superset](https://github.com/superset-sh/superset) | ![](https://img.shields.io/github/stars/superset-sh/superset?style=flat-square&logo=github) | Command center for running teams of Claude Code, OpenCode, Codex, and other agents |
+| [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) | ![](https://img.shields.io/github/stars/Danau5tin/multi-agent-coding-system?style=flat-square&logo=github) | Orchestrator, explorer, and coder agents with intelligent context sharing |
+| [covibes/zeroshot](https://github.com/covibes/zeroshot) | ![](https://img.shields.io/github/stars/covibes/zeroshot?style=flat-square&logo=github) | Autonomous engineering team CLI supporting Claude Code, Codex, OpenCode, and Gemini CLI |
 
 ## GUI & IDE
 
@@ -120,6 +166,12 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | ![](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&logo=github) | Desktop app to manage API providers, MCPs, and configs for Claude Code and Codex |
 | [slopus/happy](https://github.com/slopus/happy) | ![](https://img.shields.io/github/stars/slopus/happy?style=flat-square&logo=github) | Mobile and web client for Claude Code and Codex with E2E encryption and push alerts |
 | [breaking-brake/cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio) | ![](https://img.shields.io/github/stars/breaking-brake/cc-wf-studio?style=flat-square&logo=github) | Workflow studio for Claude Code |
+| [op7418/CodePilot](https://github.com/op7418/CodePilot) | ![](https://img.shields.io/github/stars/op7418/CodePilot?style=flat-square&logo=github) | Native desktop GUI for Claude Code with chat, code, and project management |
+| [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) | ![](https://img.shields.io/github/stars/The-Vibe-Company/companion?style=flat-square&logo=github) | Open-source Claude Code / Codex Web UI with session launch and tool approval |
+| [tiann/hapi](https://github.com/tiann/hapi) | ![](https://img.shields.io/github/stars/tiann/hapi?style=flat-square&logo=github) | App for Claude Code, Codex, Gemini, and OpenCode — vibe coding anywhere |
+| [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) | ![](https://img.shields.io/github/stars/ComposioHQ/open-claude-cowork?style=flat-square&logo=github) | Open-source Claude Cowork with 500+ SaaS app integrations |
+| [zhukunpenglinyutong/idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui) | ![](https://img.shields.io/github/stars/zhukunpenglinyutong/idea-claude-code-gui?style=flat-square&logo=github) | IntelliJ IDEA Claude Code GUI plugin |
+| [wbopan/cui](https://github.com/wbopan/cui) | ![](https://img.shields.io/github/stars/wbopan/cui?style=flat-square&logo=github) | Web UI for Claude Code agents |
 
 ## Monitoring & Analytics
 
@@ -129,6 +181,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [chiphuyen/sniffly](https://github.com/chiphuyen/sniffly) | ![](https://img.shields.io/github/stars/chiphuyen/sniffly?style=flat-square&logo=github) | Analytics dashboard for Claude Code logs with usage stats and error breakdowns |
 | [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) | ![](https://img.shields.io/github/stars/ryoppippi/ccusage?style=flat-square&logo=github) | Fast CLI to analyze Claude Code/Codex token usage and costs from local JSONL logs |
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | ![](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square&logo=github) | macOS menu bar app showing usage limits for Codex, Claude, Cursor, and 10+ providers |
+| [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) | ![](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat-square&logo=github) | macOS menu bar app unifying Claude, Gemini, OpenAI, Qwen subscriptions with quota tracking |
+| [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) | ![](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&logo=github) | Real-time monitoring for Claude Code agents through hook event tracking |
 
 ## Learning & Reference
 
@@ -138,6 +192,15 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | ![](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat-square&logo=github) | Build-from-scratch tutorial teaching AI agent patterns in 50–550 lines of Python |
 | [zebbern/claude-code-guide](https://github.com/zebbern/claude-code-guide) | ![](https://img.shields.io/github/stars/zebbern/claude-code-guide?style=flat-square&logo=github) | Setup, commands, workflows, agents, skills guide |
 | [disler/claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) | ![](https://img.shields.io/github/stars/disler/claude-code-hooks-mastery?style=flat-square&logo=github) | Master Claude Code Hooks guide |
+| [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) | ![](https://img.shields.io/github/stars/davidkimai/Context-Engineering?style=flat-square&logo=github) | First-principles context engineering handbook inspired by Karpathy |
+| [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) | ![](https://img.shields.io/github/stars/ghuntley/how-to-build-a-coding-agent?style=flat-square&logo=github) | Workshop teaching how to build your own coding agent |
+| [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) | ![](https://img.shields.io/github/stars/Meirtz/Awesome-Context-Engineering?style=flat-square&logo=github) | Comprehensive survey on context engineering with papers, frameworks, and guides |
+| [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) | ![](https://img.shields.io/github/stars/ykdojo/claude-code-tips?style=flat-square&logo=github) | 45 tips for Claude Code from basics to advanced |
+| [davepoon/buildwithclaude](https://github.com/davepoon/buildwithclaude) | ![](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=flat-square&logo=github) | Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections |
+| [Cranot/claude-code-guide](https://github.com/Cranot/claude-code-guide) | ![](https://img.shields.io/github/stars/Cranot/claude-code-guide?style=flat-square&logo=github) | Complete Claude Code CLI guide, auto-updated every 2 days |
+| [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) | ![](https://img.shields.io/github/stars/addyosmani/gemini-cli-tips?style=flat-square&logo=github) | Gemini CLI tips and tricks |
+| [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) | ![](https://img.shields.io/github/stars/humanlayer/advanced-context-engineering-for-coding-agents?style=flat-square&logo=github) | Advanced context engineering methodology for coding agents in large codebases |
+| [Njengah/claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) | ![](https://img.shields.io/github/stars/Njengah/claude-code-cheat-sheet?style=flat-square&logo=github) | Ultimate collection of Claude Code tips, tricks, hacks, and workflows |
 
 ## Proxy & Customization
 
@@ -147,6 +210,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [fuergaosi233/claude-code-proxy](https://github.com/fuergaosi233/claude-code-proxy) | ![](https://img.shields.io/github/stars/fuergaosi233/claude-code-proxy?style=flat-square&logo=github) | Claude Code to OpenAI API Proxy |
 | [steipete/claude-code-mcp](https://github.com/steipete/claude-code-mcp) | ![](https://img.shields.io/github/stars/steipete/claude-code-mcp?style=flat-square&logo=github) | Claude Code as one-shot MCP server (agent-in-agent) |
 | [Piebald-AI/tweakcc](https://github.com/Piebald-AI/tweakcc) | ![](https://img.shields.io/github/stars/Piebald-AI/tweakcc?style=flat-square&logo=github) | Customize system prompts, toolsets, themes for Claude Code |
+| [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) | ![](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=flat-square&logo=github) | Proxy exposing Antigravity-provided Claude/Gemini models for Claude Code and OpenClaw |
+| [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | ![](https://img.shields.io/github/stars/automazeio/vibeproxy?style=flat-square&logo=github) | macOS menu bar app to use Claude Code and ChatGPT subscriptions with AI coding tools |
 
 ---
 
