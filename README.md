@@ -39,6 +39,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | ![](https://img.shields.io/github/stars/anthropics/anthropic-sdk-python?style=flat-square&logo=github) | Typed Python client for the Claude REST API with sync and async support |
 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | ![](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&logo=github) | Official Anthropic-managed directory of Claude Code Plugins |
 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | ![](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&logo=github) | Copy-paste notebooks for RAG, tool use, vision, classification, and Claude integrations |
+| [anthropics/claude-agent-sdk-demos](https://github.com/anthropics/claude-agent-sdk-demos) | ![](https://img.shields.io/github/stars/anthropics/claude-agent-sdk-demos?style=flat-square&logo=github) | Official Claude Agent SDK demos and examples |
 
 ## Configuration & Rules
 
@@ -132,6 +133,10 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [expo/skills](https://github.com/expo/skills) | ![](https://img.shields.io/github/stars/expo/skills?style=flat-square&logo=github) | Official Expo team AI agent skills |
 | [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) | ![](https://img.shields.io/github/stars/op7418/Humanizer-zh?style=flat-square&logo=github) | Chinese AI-writing de-detection skill for natural-sounding text output |
 | [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) | ![](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=flat-square&logo=github) | Definitive guide to Agent Skills: quick start, tutorials, and curated skills directory |
+| [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | ![](https://img.shields.io/github/stars/Jeffallan/claude-skills?style=flat-square&logo=github) | 66 specialized skills for full-stack developers using Claude Code |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | ![](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&logo=github) | 169 production-ready skills for Claude Code, Codex, and OpenClaw |
+| [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) | ![](https://img.shields.io/github/stars/brennercruvinel/CCPlugins?style=flat-square&logo=github) | 24 enterprise-grade Claude Code commands and plugin framework |
+| [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ![](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&logo=github) | 270+ Claude Code plugins with 739 agent skills and CCPI package manager |
 
 ## Agent Orchestration
 
@@ -165,6 +170,9 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [superagent-ai/vibekit](https://github.com/superagent-ai/vibekit) | ![](https://img.shields.io/github/stars/superagent-ai/vibekit?style=flat-square&logo=github) | Coding agent sandbox with data redaction and observability |
 | [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge) | ![](https://img.shields.io/github/stars/bfly123/claude_code_bridge?style=flat-square&logo=github) | Real-time multi-AI collaboration bridging Claude Code, Codex, and Gemini |
 | [maxritter/claude-pilot](https://github.com/maxritter/claude-pilot) | ![](https://img.shields.io/github/stars/maxritter/claude-pilot?style=flat-square&logo=github) | Claude Code reliability wrapper with TDD enforcement |
+| [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) | ![](https://img.shields.io/github/stars/iannuttall/claude-agents?style=flat-square&logo=github) | Custom subagents collection for Claude Code |
+| [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | ![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&logo=github) | tmux + git worktree session manager for Claude Code, Codex, OpenCode, and Gemini CLI |
+| [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ![](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&logo=github) | Agent harness with 46 lifecycle hooks, 26 tools, and skill/command/MCP systems |
 
 ## GUI & IDE
 
@@ -191,6 +199,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) | ![](https://img.shields.io/github/stars/folke/sidekick.nvim?style=flat-square&logo=github) | Neovim AI sidekick with Claude Code, Codex, and Gemini integration |
 | [generalaction/emdash](https://github.com/generalaction/emdash) | ![](https://img.shields.io/github/stars/generalaction/emdash?style=flat-square&logo=github) | Open-source agentic dev environment (YC W26) |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ![](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square&logo=github) | Visual plan review and annotation tool for Claude Code and OpenCode |
+| [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | ![](https://img.shields.io/github/stars/asheshgoplani/agent-deck?style=flat-square&logo=github) | TUI session manager for Claude Code, Gemini, OpenCode, and Codex |
+| [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) | ![](https://img.shields.io/github/stars/zed-industries/claude-agent-acp?style=flat-square&logo=github) | Use Claude Agent SDK from any ACP client such as Zed |
 
 ## Monitoring & Analytics
 
@@ -331,6 +341,7 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) | ![](https://img.shields.io/github/stars/elevenlabs/elevenlabs-mcp?style=flat-square&logo=github) | ElevenLabs TTS MCP |
 | [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) | ![](https://img.shields.io/github/stars/jamubc/gemini-mcp-tool?style=flat-square&logo=github) | MCP server bridging Claude Code to Gemini CLI for large-context file analysis |
 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | ![](https://img.shields.io/github/stars/wong2/awesome-mcp-servers?style=flat-square&logo=github) | Curated list of MCP servers with categorized directory and website |
+| [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | ![](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square&logo=github) | MCP integration between AI agents (Cursor, Claude Code) and Figma for reading and modifying designs |
 
 ---
 
