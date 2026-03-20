@@ -76,6 +76,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [gadievron/raptor](https://github.com/gadievron/raptor) | ![](https://img.shields.io/github/stars/gadievron/raptor?style=flat-square&logo=github) | Turn Claude Code into an offensive/defensive security agent with rules and sub-agents |
 | [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) | ![](https://img.shields.io/github/stars/Dicklesworthstone/agentic_coding_flywheel_setup?style=flat-square&logo=github) | Bootstrap Ubuntu VPS into multi-agent dev environment for Claude Code, Codex, and Gemini CLI |
 | [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) | ![](https://img.shields.io/github/stars/m0n0x41d/quint-code?style=flat-square&logo=github) | Structured reasoning framework for Claude Code, Gemini CLI, Cursor, and Codex |
+| [garrytan/gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&logo=github) | Garry Tan's Claude Code setup with 15 opinionated role-based tools |
 
 ## Skills & Plugins
 
@@ -137,6 +138,12 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | ![](https://img.shields.io/github/stars/alirezarezvani/claude-skills?style=flat-square&logo=github) | 169 production-ready skills for Claude Code, Codex, and OpenClaw |
 | [brennercruvinel/CCPlugins](https://github.com/brennercruvinel/CCPlugins) | ![](https://img.shields.io/github/stars/brennercruvinel/CCPlugins?style=flat-square&logo=github) | 24 enterprise-grade Claude Code commands and plugin framework |
 | [jeremylongshore/claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | ![](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus-skills?style=flat-square&logo=github) | 270+ Claude Code plugins with 739 agent skills and CCPI package manager |
+| [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) | ![](https://img.shields.io/github/stars/agenticnotetaking/arscontexta?style=flat-square&logo=github) | Claude Code plugin generating individualized knowledge systems from conversations |
+| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | ![](https://img.shields.io/github/stars/Panniantong/Agent-Reach?style=flat-square&logo=github) | CLI to read and search Twitter, Reddit, YouTube, and GitHub for AI agents |
+| [htdt/godogen](https://github.com/htdt/godogen) | ![](https://img.shields.io/github/stars/htdt/godogen?style=flat-square&logo=github) | Claude Code skills that build complete Godot 4 projects from a game description |
+| [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ![](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square&logo=github) | Claude Code skill for Android app reverse engineering |
+| [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) | ![](https://img.shields.io/github/stars/Ceeon/videocut-skills?style=flat-square&logo=github) | Video editing agent skill for Claude Code |
+| [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&logo=github) | Turn any codebase into an interactive knowledge graph via Claude Code skills |
 
 ## Agent Orchestration
 
@@ -173,6 +180,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [iannuttall/claude-agents](https://github.com/iannuttall/claude-agents) | ![](https://img.shields.io/github/stars/iannuttall/claude-agents?style=flat-square&logo=github) | Custom subagents collection for Claude Code |
 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | ![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&logo=github) | tmux + git worktree session manager for Claude Code, Codex, OpenCode, and Gemini CLI |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ![](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&logo=github) | Agent harness with 46 lifecycle hooks, 26 tools, and skill/command/MCP systems |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ![](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square&logo=github) | Enterprise multi-agent swarm orchestration platform for Claude |
 
 ## GUI & IDE
 
@@ -201,6 +209,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | ![](https://img.shields.io/github/stars/backnotprop/plannotator?style=flat-square&logo=github) | Visual plan review and annotation tool for Claude Code and OpenCode |
 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | ![](https://img.shields.io/github/stars/asheshgoplani/agent-deck?style=flat-square&logo=github) | TUI session manager for Claude Code, Gemini, OpenCode, and Codex |
 | [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) | ![](https://img.shields.io/github/stars/zed-industries/claude-agent-acp?style=flat-square&logo=github) | Use Claude Agent SDK from any ACP client such as Zed |
+| [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ![](https://img.shields.io/github/stars/manaflow-ai/cmux?style=flat-square&logo=github) | Ghostty-based macOS terminal with tabs and notifications for AI coding agents |
 
 ## Monitoring & Analytics
 
@@ -230,6 +239,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [addyosmani/gemini-cli-tips](https://github.com/addyosmani/gemini-cli-tips) | ![](https://img.shields.io/github/stars/addyosmani/gemini-cli-tips?style=flat-square&logo=github) | Gemini CLI tips and tricks |
 | [humanlayer/advanced-context-engineering-for-coding-agents](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents) | ![](https://img.shields.io/github/stars/humanlayer/advanced-context-engineering-for-coding-agents?style=flat-square&logo=github) | Advanced context engineering methodology for coding agents in large codebases |
 | [Njengah/claude-code-cheat-sheet](https://github.com/Njengah/claude-code-cheat-sheet) | ![](https://img.shields.io/github/stars/Njengah/claude-code-cheat-sheet?style=flat-square&logo=github) | Ultimate collection of Claude Code tips, tricks, hacks, and workflows |
+| [leerob/directories](https://github.com/leerob/directories) | ![](https://img.shields.io/github/stars/leerob/directories?style=flat-square&logo=github) | Find rules and MCP servers for coding agents (by Vercel's Lee Robinson) |
 
 ## Proxy & Customization
 
@@ -243,6 +253,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [automazeio/vibeproxy](https://github.com/automazeio/vibeproxy) | ![](https://img.shields.io/github/stars/automazeio/vibeproxy?style=flat-square&logo=github) | macOS menu bar app to use Claude Code and ChatGPT subscriptions with AI coding tools |
 | [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) | ![](https://img.shields.io/github/stars/numman-ali/cc-mirror?style=flat-square&logo=github) | Isolated Claude Code variants with custom providers |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | ![](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&logo=github) | Proxy server exposing Claude Code, Gemini CLI, and Codex as OpenAI-compatible APIs |
+| [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&logo=github) | CLI proxy reducing LLM token consumption by 60-90% (single Rust binary) |
 
 ---
 
@@ -273,6 +284,7 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [metorial/metorial](https://github.com/metorial/metorial) | ![](https://img.shields.io/github/stars/metorial/metorial?style=flat-square&logo=github) | Integration platform connecting AI models to 600+ APIs via MCP with one-liner SDKs |
 | [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) | ![](https://img.shields.io/github/stars/metatool-ai/metamcp?style=flat-square&logo=github) | MCP proxy aggregating multiple servers into one unified endpoint with middleware |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&logo=github) | The canonical community-curated list of MCP servers |
+| [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | ![](https://img.shields.io/github/stars/appcypher/awesome-mcp-servers?style=flat-square&logo=github) | Curated list of MCP servers organized by category |
 
 ### Servers
 
@@ -342,6 +354,9 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [jamubc/gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) | ![](https://img.shields.io/github/stars/jamubc/gemini-mcp-tool?style=flat-square&logo=github) | MCP server bridging Claude Code to Gemini CLI for large-context file analysis |
 | [wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) | ![](https://img.shields.io/github/stars/wong2/awesome-mcp-servers?style=flat-square&logo=github) | Curated list of MCP servers with categorized directory and website |
 | [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) | ![](https://img.shields.io/github/stars/grab/cursor-talk-to-figma-mcp?style=flat-square&logo=github) | MCP integration between AI agents (Cursor, Claude Code) and Figma for reading and modifying designs |
+| [steipete/Peekaboo](https://github.com/steipete/Peekaboo) | ![](https://img.shields.io/github/stars/steipete/Peekaboo?style=flat-square&logo=github) | macOS CLI and MCP server for screenshots with visual Q&A via AI models |
+| [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) | ![](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=flat-square&logo=github) | MCP server for Godot game engine with editor control and debug capture |
+| [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) | ![](https://img.shields.io/github/stars/yctimlin/mcp_excalidraw?style=flat-square&logo=github) | Excalidraw MCP server and Claude Code skill for programmatic diagram creation |
 
 ---
 
