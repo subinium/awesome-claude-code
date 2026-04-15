@@ -144,6 +144,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ![](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square&logo=github) | Claude Code skill for Android app reverse engineering |
 | [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) | ![](https://img.shields.io/github/stars/Ceeon/videocut-skills?style=flat-square&logo=github) | Video editing agent skill for Claude Code |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&logo=github) | Turn any codebase into an interactive knowledge graph via Claude Code skills |
+| [praneybehl/llm-wiki-plugin](https://github.com/praneybehl/llm-wiki-plugin) | ![](https://img.shields.io/github/stars/praneybehl/llm-wiki-plugin?style=flat-square&logo=github) | Compounding LLM-curated personal knowledge base (Karpathy's LLM Wiki pattern) — skill + 5 `/wiki:*` commands with sharded indexes and BM25 search |
 
 ## Agent Orchestration
 
