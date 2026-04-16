@@ -145,6 +145,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) | ![](https://img.shields.io/github/stars/Ceeon/videocut-skills?style=flat-square&logo=github) | Video editing agent skill for Claude Code |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&logo=github) | Turn any codebase into an interactive knowledge graph via Claude Code skills |
 
+| [smorky850612/AuraKit](https://github.com/smorky850612/Aurakit) | ![](https://img.shields.io/github/stars/smorky850612/Aurakit?style=flat-square&logo=github) | All-in-one fullstack Claude Code skill: 46 modes, 23 sub-agents, 6-layer security (OWASP+), 10 hooks, 8 languages, ~55% token savings |
 ## Agent Orchestration
 
 | Repository | Stars | Description |
