@@ -144,6 +144,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ![](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square&logo=github) | Claude Code skill for Android app reverse engineering |
 | [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) | ![](https://img.shields.io/github/stars/Ceeon/videocut-skills?style=flat-square&logo=github) | Video editing agent skill for Claude Code |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&logo=github) | Turn any codebase into an interactive knowledge graph via Claude Code skills |
+| [jakemarsh/ccthread](https://github.com/jakemarsh/ccthread) | ![](https://img.shields.io/github/stars/jakemarsh/ccthread?style=flat-square&logo=github) | Read, search, and have Claude summarize your Claude Code conversation logs from the CLI |
 
 ## Agent Orchestration
 
