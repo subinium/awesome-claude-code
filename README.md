@@ -360,6 +360,8 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 
 ---
 
+- [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) ![](https://img.shields.io/github/stars/Agnuxo1/EnigmAgent?style=flat-square&logo=github) - AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts or logs.
+
 ## Contributing
 
 Found a missing repo? Open an issue or submit a PR! Only repositories with **1,000+ stars** are listed.
