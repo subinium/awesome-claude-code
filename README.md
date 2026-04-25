@@ -77,6 +77,12 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [Dicklesworthstone/agentic_coding_flywheel_setup](https://github.com/Dicklesworthstone/agentic_coding_flywheel_setup) | ![](https://img.shields.io/github/stars/Dicklesworthstone/agentic_coding_flywheel_setup?style=flat-square&logo=github) | Bootstrap Ubuntu VPS into multi-agent dev environment for Claude Code, Codex, and Gemini CLI |
 | [m0n0x41d/quint-code](https://github.com/m0n0x41d/quint-code) | ![](https://img.shields.io/github/stars/m0n0x41d/quint-code?style=flat-square&logo=github) | Structured reasoning framework for Claude Code, Gemini CLI, Cursor, and Codex |
 | [garrytan/gstack](https://github.com/garrytan/gstack) | ![](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&logo=github) | Garry Tan's Claude Code setup with 15 opinionated role-based tools |
+| [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | ![](https://img.shields.io/github/stars/forrestchang/andrej-karpathy-skills?style=flat-square&logo=github) | CLAUDE.md derived from Karpathy's observations on common LLM coding pitfalls |
+| [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | ![](https://img.shields.io/github/stars/VoltAgent/awesome-design-md?style=flat-square&logo=github) | DESIGN.md collection inspired by major brand design systems for agent UI scaffolding |
+| [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) | ![](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules?style=flat-square&logo=github) | The de-facto curated list of Cursor rules and configs |
+| [github/awesome-copilot](https://github.com/github/awesome-copilot) | ![](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square&logo=github) | GitHub's community-curated Copilot instructions, agents, skills, and configs |
+| [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | ![](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&logo=github) | Google's open spec for describing visual identity to coding agents (DESIGN.md) |
+| [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | ![](https://img.shields.io/github/stars/drona23/claude-token-efficient?style=flat-square&logo=github) | Drop-in CLAUDE.md that keeps Claude responses terse for heavy workflows |
 
 ## Skills & Plugins
 
@@ -144,6 +150,9 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | ![](https://img.shields.io/github/stars/SimoneAvogadro/android-reverse-engineering-skill?style=flat-square&logo=github) | Claude Code skill for Android app reverse engineering |
 | [Ceeon/videocut-skills](https://github.com/Ceeon/videocut-skills) | ![](https://img.shields.io/github/stars/Ceeon/videocut-skills?style=flat-square&logo=github) | Video editing agent skill for Claude Code |
 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | ![](https://img.shields.io/github/stars/Lum1104/Understand-Anything?style=flat-square&logo=github) | Turn any codebase into an interactive knowledge graph via Claude Code skills |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&logo=github) | Production-grade engineering skills for AI coding agents from Addy Osmani |
+| [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&logo=github) | Ready-to-use Agent Skills for research, science, engineering, finance, and writing |
+| [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | ![](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&logo=github) | TDD enforcement for Claude Code via hooks blocking non-test-driven edits |
 
 ## Agent Orchestration
 
@@ -181,6 +190,12 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | ![](https://img.shields.io/github/stars/njbrake/agent-of-empires?style=flat-square&logo=github) | tmux + git worktree session manager for Claude Code, Codex, OpenCode, and Gemini CLI |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | ![](https://img.shields.io/github/stars/code-yeongyu/oh-my-openagent?style=flat-square&logo=github) | Agent harness with 46 lifecycle hooks, 26 tools, and skill/command/MCP systems |
 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ![](https://img.shields.io/github/stars/ruvnet/ruflo?style=flat-square&logo=github) | Enterprise multi-agent swarm orchestration platform for Claude |
+| [openai/symphony](https://github.com/openai/symphony) | ![](https://img.shields.io/github/stars/openai/symphony?style=flat-square&logo=github) | OpenAI's framework for managing isolated, autonomous coding-agent runs |
+| [plandex-ai/plandex](https://github.com/plandex-ai/plandex) | ![](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat-square&logo=github) | Open-source AI coding agent built for large projects and multi-file tasks |
+| [trycua/cua](https://github.com/trycua/cua) | ![](https://img.shields.io/github/stars/trycua/cua?style=flat-square&logo=github) | Open-source infrastructure for Computer-Use Agents — sandboxes, SDKs, benchmarks |
+| [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | ![](https://img.shields.io/github/stars/langchain-ai/open-swe?style=flat-square&logo=github) | LangChain's open-source asynchronous coding agent for long-running tasks |
+| [agent-infra/sandbox](https://github.com/agent-infra/sandbox) | ![](https://img.shields.io/github/stars/agent-infra/sandbox?style=flat-square&logo=github) | All-in-one Docker sandbox combining browser, shell, file, MCP, and VSCode for agents |
+| [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | ![](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox?style=flat-square&logo=github) | Kubernetes-native isolated, stateful workloads for AI agent runtimes |
 
 ## GUI & IDE
 
@@ -210,6 +225,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | ![](https://img.shields.io/github/stars/asheshgoplani/agent-deck?style=flat-square&logo=github) | TUI session manager for Claude Code, Gemini, OpenCode, and Codex |
 | [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) | ![](https://img.shields.io/github/stars/zed-industries/claude-agent-acp?style=flat-square&logo=github) | Use Claude Agent SDK from any ACP client such as Zed |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ![](https://img.shields.io/github/stars/manaflow-ai/cmux?style=flat-square&logo=github) | Ghostty-based macOS terminal with tabs and notifications for AI coding agents |
+| [cline/cline](https://github.com/cline/cline) | ![](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github) | Autonomous coding agent VS Code extension with file edits, command execution, and browser use |
+| [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&logo=github) | All-in-one agentic engineering VS Code extension forked from Cline + Roo Code |
 
 ## Monitoring & Analytics
 
@@ -221,6 +238,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | ![](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square&logo=github) | macOS menu bar app showing usage limits for Codex, Claude, Cursor, and 10+ providers |
 | [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) | ![](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat-square&logo=github) | macOS menu bar app unifying Claude, Gemini, OpenAI, Qwen subscriptions with quota tracking |
 | [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) | ![](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&logo=github) | Real-time monitoring for Claude Code agents through hook event tracking |
+| [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) | ![](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&logo=github) | DevTools for Claude Code: inspect session logs, tool calls, token usage, subagents |
 
 ## Learning & Reference
 
@@ -254,6 +272,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [numman-ali/cc-mirror](https://github.com/numman-ali/cc-mirror) | ![](https://img.shields.io/github/stars/numman-ali/cc-mirror?style=flat-square&logo=github) | Isolated Claude Code variants with custom providers |
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | ![](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&logo=github) | Proxy server exposing Claude Code, Gemini CLI, and Codex as OpenAI-compatible APIs |
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&logo=github) | CLI proxy reducing LLM token consumption by 60-90% (single Rust binary) |
+| [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | ![](https://img.shields.io/github/stars/Wei-Shaw/claude-relay-service?style=flat-square&logo=github) | Self-hosted relay unifying Claude/OpenAI/Gemini/Droid subscriptions through one endpoint |
 
 ---
 
@@ -285,6 +304,12 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) | ![](https://img.shields.io/github/stars/metatool-ai/metamcp?style=flat-square&logo=github) | MCP proxy aggregating multiple servers into one unified endpoint with middleware |
 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ![](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&logo=github) | The canonical community-curated list of MCP servers |
 | [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) | ![](https://img.shields.io/github/stars/appcypher/awesome-mcp-servers?style=flat-square&logo=github) | Curated list of MCP servers organized by category |
+| [open-webui/mcpo](https://github.com/open-webui/mcpo) | ![](https://img.shields.io/github/stars/open-webui/mcpo?style=flat-square&logo=github) | Simple, secure MCP-to-OpenAPI proxy server exposing MCP tools as REST endpoints |
+| [punkpeye/vitemcp](https://github.com/punkpeye/vitemcp) | ![](https://img.shields.io/github/stars/punkpeye/vitemcp?style=flat-square&logo=github) | TypeScript framework for building MCP servers with hot reload and type safety |
+| [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) | ![](https://img.shields.io/github/stars/agentgateway/agentgateway?style=flat-square&logo=github) | Agentic proxy and gateway for AI agents and MCP servers |
+| [AmoyLab/Unla](https://github.com/AmoyLab/Unla) | ![](https://img.shields.io/github/stars/AmoyLab/Unla?style=flat-square&logo=github) | Lightweight MCP gateway converting existing servers/APIs into MCP with zero changes |
+| [samanhappy/mcphub](https://github.com/samanhappy/mcphub) | ![](https://img.shields.io/github/stars/samanhappy/mcphub?style=flat-square&logo=github) | Unified hub for centrally managing and routing multiple MCP servers per endpoint |
+| [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) | ![](https://img.shields.io/github/stars/modelcontextprotocol/mcpb?style=flat-square&logo=github) | Desktop Extensions standard for one-click local MCP server installs |
 
 ### Servers
 
@@ -357,6 +382,11 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [steipete/Peekaboo](https://github.com/steipete/Peekaboo) | ![](https://img.shields.io/github/stars/steipete/Peekaboo?style=flat-square&logo=github) | macOS CLI and MCP server for screenshots with visual Q&A via AI models |
 | [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) | ![](https://img.shields.io/github/stars/Coding-Solo/godot-mcp?style=flat-square&logo=github) | MCP server for Godot game engine with editor control and debug capture |
 | [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) | ![](https://img.shields.io/github/stars/yctimlin/mcp_excalidraw?style=flat-square&logo=github) | Excalidraw MCP server and Claude Code skill for programmatic diagram creation |
+| [kreuzberg-dev/kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) | ![](https://img.shields.io/github/stars/kreuzberg-dev/kreuzberg?style=flat-square&logo=github) | Document intelligence: extract text, metadata, images from 97+ formats via MCP |
+| [epiral/bb-browser](https://github.com/epiral/bb-browser) | ![](https://img.shields.io/github/stars/epiral/bb-browser?style=flat-square&logo=github) | CLI plus MCP server for AI agents to control Chrome with your existing login state |
+| [u14app/deep-research](https://github.com/u14app/deep-research) | ![](https://img.shields.io/github/stars/u14app/deep-research?style=flat-square&logo=github) | Multi-LLM deep-research MCP server with SSE streaming and provider abstraction |
+| [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | ![](https://img.shields.io/github/stars/CodeGraphContext/CodeGraphContext?style=flat-square&logo=github) | Indexes local code into a graph database to provide deep context to AI assistants |
+| [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | ![](https://img.shields.io/github/stars/Gentleman-Programming/engram?style=flat-square&logo=github) | Persistent memory for coding agents with SQLite + FTS5, MCP server, HTTP, CLI, TUI |
 
 ---
 
