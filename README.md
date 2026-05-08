@@ -154,6 +154,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&logo=github) | Ready-to-use Agent Skills for research, science, engineering, finance, and writing |
 | [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | ![](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&logo=github) | TDD enforcement for Claude Code via hooks blocking non-test-driven edits |
 
+| [smorky850612/AuraKit](https://github.com/smorky850612/Aurakit) | ![](https://img.shields.io/github/stars/smorky850612/Aurakit?style=flat-square&logo=github) | All-in-one fullstack Claude Code skill: 46 modes, 23 sub-agents, 6-layer security (OWASP+), 10 hooks, 8 languages, ~55% token savings |
 ## Agent Orchestration
 
 | Repository | Stars | Description |
