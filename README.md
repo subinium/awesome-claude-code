@@ -297,7 +297,8 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) | ![](https://img.shields.io/github/stars/modelcontextprotocol/java-sdk?style=flat-square&logo=github) | Official Java SDK (with Spring AI) |
 | [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) | ![](https://img.shields.io/github/stars/modelcontextprotocol/rust-sdk?style=flat-square&logo=github) | Official Rust SDK |
 | [jlowin/fastmcp](https://github.com/jlowin/fastmcp) | ![](https://img.shields.io/github/stars/jlowin/fastmcp?style=flat-square&logo=github) | Pythonic framework for building MCP servers with tools, resources, and transforms |
-| [punkpeye/fastmcp](https://github.com/punkpeye/fastmcp) | ![](https://img.shields.io/github/stars/punkpeye/fastmcp?style=flat-square&logo=github) | TypeScript MCP framework |
+| [Coding-Dev-Tools/click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) | ![](https://img.shields.io/github/stars/Coding-Dev-Tools/click-to-mcp?style=flat-square&logo=github) | Auto-wrap any Click/typer CLI as an MCP server — zero server code required |
+| [punkpeye/fastmcp]
 | [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) | ![](https://img.shields.io/github/stars/mcp-use/mcp-use?style=flat-square&logo=github) | Connect any LLM to MCP servers with agents, clients, and inspector in 6 lines |
 | [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) | ![](https://img.shields.io/github/stars/IBM/mcp-context-forge?style=flat-square&logo=github) | MCP gateway that federates REST, MCP, and A2A services with auth and admin UI |
 | [metorial/metorial](https://github.com/metorial/metorial) | ![](https://img.shields.io/github/stars/metorial/metorial?style=flat-square&logo=github) | Integration platform connecting AI models to 600+ APIs via MCP with one-liner SDKs |
