@@ -239,6 +239,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) | ![](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat-square&logo=github) | macOS menu bar app unifying Claude, Gemini, OpenAI, Qwen subscriptions with quota tracking |
 | [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) | ![](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&logo=github) | Real-time monitoring for Claude Code agents through hook event tracking |
 | [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) | ![](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&logo=github) | DevTools for Claude Code: inspect session logs, tool calls, token usage, subagents |
+| [gyanesh-m/retro-daily](https://github.com/gyanesh-m/retro-daily) | ![](https://img.shields.io/github/stars/gyanesh-m/retro-daily?style=flat-square&logo=github) | SessionStart plugin showing daily competency grade, 14-day efficiency sparklines, and a background scout researching weak metrics |
 
 ## Learning & Reference
 
