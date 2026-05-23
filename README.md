@@ -83,6 +83,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | ![](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square&logo=github) | GitHub's community-curated Copilot instructions, agents, skills, and configs |
 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | ![](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&logo=github) | Google's open spec for describing visual identity to coding agents (DESIGN.md) |
 | [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | ![](https://img.shields.io/github/stars/drona23/claude-token-efficient?style=flat-square&logo=github) | Drop-in CLAUDE.md that keeps Claude responses terse for heavy workflows |
+| [sabir-gbs/the-polyglot-protocol](https://github.com/sabir-gbs/the-polyglot-protocol) | ![](https://img.shields.io/github/stars/sabir-gbs/the-polyglot-protocol?style=flat-square&logo=github) | Senior-engineer protocol for AI coding agents with repo discovery, 22-language guidance, validation workflows, and post-codegen audit scoring |
+
 
 ## Skills & Plugins
 
