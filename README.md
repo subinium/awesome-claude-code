@@ -83,6 +83,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [github/awesome-copilot](https://github.com/github/awesome-copilot) | ![](https://img.shields.io/github/stars/github/awesome-copilot?style=flat-square&logo=github) | GitHub's community-curated Copilot instructions, agents, skills, and configs |
 | [google-labs-code/design.md](https://github.com/google-labs-code/design.md) | ![](https://img.shields.io/github/stars/google-labs-code/design.md?style=flat-square&logo=github) | Google's open spec for describing visual identity to coding agents (DESIGN.md) |
 | [drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient) | ![](https://img.shields.io/github/stars/drona23/claude-token-efficient?style=flat-square&logo=github) | Drop-in CLAUDE.md that keeps Claude responses terse for heavy workflows |
+| [huangji6693-max/claude-code-dna](https://github.com/huangji6693-max/claude-code-dna) | ![](https://img.shields.io/github/stars/huangji6693-max/claude-code-dna?style=flat-square&logo=github) | Behavioral OS for Claude Code agents — Karpathy 4 laws + 15 operating instincts + 3-tier memory architecture (mem0/langmem/GraphRAG-inspired) + curated 194-skill/99-agent catalog with agentskills.io spec audit. 184KB drop-in package |
 
 ## Skills & Plugins
 
