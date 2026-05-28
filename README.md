@@ -153,6 +153,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&logo=github) | Production-grade engineering skills for AI coding agents from Addy Osmani |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&logo=github) | Ready-to-use Agent Skills for research, science, engineering, finance, and writing |
 | [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | ![](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&logo=github) | TDD enforcement for Claude Code via hooks blocking non-test-driven edits |
+| [infrasity-labs/dev-gtm-claude-skills](https://github.com/infrasity-labs/dev-gtm-claude-skills) | ![](https://img.shields.io/github/stars/infrasity-labs/dev-gtm-claude-skills?style=flat-square&logo=github) | Open source developer marketing skills for GEO, AI Visibility and GTM workflows |
 
 ## Agent Orchestration
 
