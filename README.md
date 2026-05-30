@@ -312,6 +312,8 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [modelcontextprotocol/mcpb](https://github.com/modelcontextprotocol/mcpb) | ![](https://img.shields.io/github/stars/modelcontextprotocol/mcpb?style=flat-square&logo=github) | Desktop Extensions standard for one-click local MCP server installs |
 
 ### Servers
+- [Shiori MCP](https://github.com/kaorii-ako/Shiori-v1/tree/master/mcp) — Student productivity MCP: assignments, grades, notes, flashcards. Ask Claude "what's due?" or "add assignment". Includes full study app with Gemini AI. [Demo](https://shiori-v1.vercel.app)
+### Servers
 
 | Repository | Stars | Description |
 |:-----------|:-----:|:------------|
