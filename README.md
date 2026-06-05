@@ -273,6 +273,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) | ![](https://img.shields.io/github/stars/router-for-me/CLIProxyAPI?style=flat-square&logo=github) | Proxy server exposing Claude Code, Gemini CLI, and Codex as OpenAI-compatible APIs |
 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | ![](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&logo=github) | CLI proxy reducing LLM token consumption by 60-90% (single Rust binary) |
 | [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) | ![](https://img.shields.io/github/stars/Wei-Shaw/claude-relay-service?style=flat-square&logo=github) | Self-hosted relay unifying Claude/OpenAI/Gemini/Droid subscriptions through one endpoint |
+| [CoderPlan](https://coderplan.ai) | ![](https://img.shields.io/badge/API-Relay-blue?style=flat-square) | OpenAI-compatible API relay providing unified access to Claude, GPT, Gemini, and DeepSeek models with competitive pricing (~70% of official) and Alipay/WeChat payment |
 
 ---
 
