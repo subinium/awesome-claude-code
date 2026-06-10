@@ -238,6 +238,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | ![](https://img.shields.io/github/stars/steipete/CodexBar?style=flat-square&logo=github) | macOS menu bar app showing usage limits for Codex, Claude, Cursor, and 10+ providers |
 | [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) | ![](https://img.shields.io/github/stars/nguyenphutrong/quotio?style=flat-square&logo=github) | macOS menu bar app unifying Claude, Gemini, OpenAI, Qwen subscriptions with quota tracking |
 | [disler/claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability) | ![](https://img.shields.io/github/stars/disler/claude-code-hooks-multi-agent-observability?style=flat-square&logo=github) | Real-time monitoring for Claude Code agents through hook event tracking |
+| [patwalls/headroom](https://github.com/patwalls/headroom) | ![](https://img.shields.io/github/stars/patwalls/headroom?style=flat-square&logo=github) | Native macOS menu bar app showing Claude Code session (5h) and weekly (7d) rate-limit % live — zero network calls, reads the data Claude Code writes locally via statusLine hook |
 | [matt1398/claude-devtools](https://github.com/matt1398/claude-devtools) | ![](https://img.shields.io/github/stars/matt1398/claude-devtools?style=flat-square&logo=github) | DevTools for Claude Code: inspect session logs, tool calls, token usage, subagents |
 
 ## Learning & Reference
