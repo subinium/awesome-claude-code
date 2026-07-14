@@ -88,6 +88,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 
 | Repository | Stars | Description |
 |:-----------|:-----:|:------------|
+| [howshannon/trust-issues](https://github.com/howshannon/trust-issues) | ![](https://img.shields.io/github/stars/howshannon/trust-issues?style=flat-square&logo=github) | Adversarial security review for skills, repos, MCP servers & packages before you install them — read-only scan + five-persona reasoning, ending in a GO / GO WITH MITIGATIONS / NO-GO verdict |
 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | ![](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat-square&logo=github) | Agent skills for Obsidian |
 | [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) | ![](https://img.shields.io/github/stars/muratcankoylan/Agent-Skills-for-Context-Engineering?style=flat-square&logo=github) | Context engineering skills for multi-agent architectures |
 | [numman-ali/openskills](https://github.com/numman-ali/openskills) | ![](https://img.shields.io/github/stars/numman-ali/openskills?style=flat-square&logo=github) | Universal skills loader (`npm i -g openskills`) |
