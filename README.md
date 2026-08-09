@@ -225,6 +225,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) | ![](https://img.shields.io/github/stars/asheshgoplani/agent-deck?style=flat-square&logo=github) | TUI session manager for Claude Code, Gemini, OpenCode, and Codex |
 | [zed-industries/claude-agent-acp](https://github.com/zed-industries/claude-agent-acp) | ![](https://img.shields.io/github/stars/zed-industries/claude-agent-acp?style=flat-square&logo=github) | Use Claude Agent SDK from any ACP client such as Zed |
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ![](https://img.shields.io/github/stars/manaflow-ai/cmux?style=flat-square&logo=github) | Ghostty-based macOS terminal with tabs and notifications for AI coding agents |
+| [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | ![](https://img.shields.io/github/stars/QwenAudio/qwen-audio-agent?style=flat-square&logo=github) | Realtime full-duplex voice runtime for Claude Code (and other ACP agents): talk, interrupt, and hear results read back |
 | [cline/cline](https://github.com/cline/cline) | ![](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github) | Autonomous coding agent VS Code extension with file edits, command execution, and browser use |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&logo=github) | All-in-one agentic engineering VS Code extension forked from Cline + Roo Code |
 
