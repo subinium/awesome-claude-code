@@ -47,7 +47,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 |:-----------|:-----:|:------------|
 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | ![](https://img.shields.io/github/stars/gsd-build/get-shit-done?style=flat-square&logo=github) | Context engineering and spec-driven dev system for Claude Code and OpenCode |
 | [coleam00/context-engineering-intro](https://github.com/coleam00/context-engineering-intro) | ![](https://img.shields.io/github/stars/coleam00/context-engineering-intro?style=flat-square&logo=github) | Context engineering guide centered on Claude Code |
-| [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | ![](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&logo=github) | Battle-tested Claude Code configs: agents, skills, hooks, commands, rules, and MCPs |
+| [affaan-m/everything-claude-code](https://github.com/affaan-m/ECC) | ![](https://img.shields.io/github/stars/affaan-m/everything-claude-code?style=flat-square&logo=github) | Battle-tested Claude Code configs: agents, skills, hooks, commands, rules, and MCPs |
 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | ![](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&logo=github) | Curated list of skills, hooks, slash-commands, tools, and plugins for Claude Code |
 | [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) | ![](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework?style=flat-square&logo=github) | 30 slash commands, 16 agents, and 7 behavioral modes for Claude Code development |
 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | ![](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&logo=github) | CLI + web catalog to browse and install 100+ agents, commands, hooks, and MCPs |
@@ -153,6 +153,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&logo=github) | Production-grade engineering skills for AI coding agents from Addy Osmani |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&logo=github) | Ready-to-use Agent Skills for research, science, engineering, finance, and writing |
 | [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | ![](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&logo=github) | TDD enforcement for Claude Code via hooks blocking non-test-driven edits |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | Independent X (Twitter) data API for search, follower export, monitors, and MCP. | Yes |
 
 ## Agent Orchestration
 
