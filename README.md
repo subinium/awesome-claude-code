@@ -227,6 +227,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | ![](https://img.shields.io/github/stars/manaflow-ai/cmux?style=flat-square&logo=github) | Ghostty-based macOS terminal with tabs and notifications for AI coding agents |
 | [cline/cline](https://github.com/cline/cline) | ![](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github) | Autonomous coding agent VS Code extension with file edits, command execution, and browser use |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&logo=github) | All-in-one agentic engineering VS Code extension forked from Cline + Roo Code |
+| [pungme/superagent-desktop](https://github.com/pungme/superagent-desktop) | ![](https://img.shields.io/github/stars/pungme/superagent-desktop?style=flat-square&logo=github) | macOS desktop app giving Claude Code a real browser, an iOS Simulator, and a phone companion app |
 
 ## Monitoring & Analytics
 
