@@ -153,6 +153,7 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ![](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&logo=github) | Production-grade engineering skills for AI coding agents from Addy Osmani |
 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&logo=github) | Ready-to-use Agent Skills for research, science, engineering, finance, and writing |
 | [nizos/tdd-guard](https://github.com/nizos/tdd-guard) | ![](https://img.shields.io/github/stars/nizos/tdd-guard?style=flat-square&logo=github) | TDD enforcement for Claude Code via hooks blocking non-test-driven edits |
+| [kaazyxx/ultimate-dev-toolkit](https://github.com/kaazyxx/ultimate-dev-toolkit) | ![](https://img.shields.io/github/stars/kaazyxx/ultimate-dev-toolkit?style=flat-square&logo=github) | Security-first universal plugin: 520 skills, 176 commands, 120 agents, 28 hooks, 4 MCP connectors; detects what's really installed and never fakes support |
 
 ## Agent Orchestration
 
