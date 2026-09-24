@@ -196,6 +196,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | ![](https://img.shields.io/github/stars/langchain-ai/open-swe?style=flat-square&logo=github) | LangChain's open-source asynchronous coding agent for long-running tasks |
 | [agent-infra/sandbox](https://github.com/agent-infra/sandbox) | ![](https://img.shields.io/github/stars/agent-infra/sandbox?style=flat-square&logo=github) | All-in-one Docker sandbox combining browser, shell, file, MCP, and VSCode for agents |
 | [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) | ![](https://img.shields.io/github/stars/kubernetes-sigs/agent-sandbox?style=flat-square&logo=github) | Kubernetes-native isolated, stateful workloads for AI agent runtimes |
+|[vibes-plug](https://github.com/roedyrustam/vibes-plug) - 127 specialized engineering skills yang berfungsi sebagai Primary Trigger untuk Claude Code. Bilingual (EN/ID), multi-platform (AGY, Cursor, Claude)|
+
 
 ## GUI & IDE
 
