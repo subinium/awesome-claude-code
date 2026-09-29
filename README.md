@@ -389,6 +389,7 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | ![](https://img.shields.io/github/stars/Gentleman-Programming/engram?style=flat-square&logo=github) | Persistent memory for coding agents with SQLite + FTS5, MCP server, HTTP, CLI, TUI |
 
 ---
+| [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | ![](https://img.shields.io/github/stars/usenetstate/statsnet-mcp?style=flat-square&logo=github) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 
 ## Contributing
 
