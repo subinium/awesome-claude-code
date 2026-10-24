@@ -387,6 +387,7 @@ MCP servers extend Claude Code with external tools and data. Configure via `clau
 | [u14app/deep-research](https://github.com/u14app/deep-research) | ![](https://img.shields.io/github/stars/u14app/deep-research?style=flat-square&logo=github) | Multi-LLM deep-research MCP server with SSE streaming and provider abstraction |
 | [CodeGraphContext/CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | ![](https://img.shields.io/github/stars/CodeGraphContext/CodeGraphContext?style=flat-square&logo=github) | Indexes local code into a graph database to provide deep context to AI assistants |
 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | ![](https://img.shields.io/github/stars/Gentleman-Programming/engram?style=flat-square&logo=github) | Persistent memory for coding agents with SQLite + FTS5, MCP server, HTTP, CLI, TUI |
+| [doomsday-network/bounty-guard](https://github.com/doomsday-network/bounty-guard) | ![](https://img.shields.io/github/stars/doomsday-network/bounty-guard?style=flat-square&logo=github) | Security CLI, skill, and MCP server scanning GitHub issues and repos for prompt injection and secret exfiltration |
 
 ---
 
