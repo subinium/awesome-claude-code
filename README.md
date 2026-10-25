@@ -397,3 +397,5 @@ Found a missing repo? Open an issue or submit a PR! Only repositories with **1,0
 ## License
 
 [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
