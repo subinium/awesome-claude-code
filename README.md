@@ -228,6 +228,8 @@ Only repositories with **1,000+ stars** are listed. PRs are always welcome!
 | [cline/cline](https://github.com/cline/cline) | ![](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github) | Autonomous coding agent VS Code extension with file edits, command execution, and browser use |
 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | ![](https://img.shields.io/github/stars/Kilo-Org/kilocode?style=flat-square&logo=github) | All-in-one agentic engineering VS Code extension forked from Cline + Roo Code |
 
+| [alookai/alook](https://github.com/alookai/alook) | ![](https://img.shields.io/github/stars/alookai/alook?style=flat-square&logo=github) | Open-source group chat for people and local coding agents, including Claude Code and Codex |
+
 ## Monitoring & Analytics
 
 | Repository | Stars | Description |
